@@ -39,6 +39,10 @@ A full-featured Employee Directory application built using ToolJet platform, fea
      - Marketing: 25% (1 employee)
      - HR: 25% (1 employee)
 
+   
+Link : https://app.tooljet.ai/mohamed-1761200073128/apps/9585812c-a573-41fc-80a1-ea382e3c75e3
+
 <img width="1920" height="1080" alt="Preview - Full view" src="https://github.com/user-attachments/assets/d93c1c78-f79b-4ce1-964e-5328b8421432" />
+
 
 
