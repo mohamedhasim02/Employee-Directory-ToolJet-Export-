@@ -39,4 +39,4 @@ A full-featured Employee Directory application built using ToolJet platform, fea
      - Marketing: 25% (1 employee)
      - HR: 25% (1 employee)
 
-### Statistics Configuration
+
