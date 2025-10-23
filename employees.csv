@@ -1,0 +1,5 @@
+id,name,email,phone,department,role,age,date_of_joining
+1,John Doe,john.doe@company.com,+1-555-0000,Engineering,Software Engineer,30,2025-10-31T12:00:00Z
+2,Jane Smith,jane.smith@company.com,+1-555-0000,Marketing,Marketing Manager,30,2025-10-14T12:00:00Z
+3,Bob Johnson,bob.johnson@company.com,+1-555-0000,Engineering,Senior Developer,30,2025-03-05T12:00:00Z
+4,Sarah Wilson,sarah.wilson@company.com,+1-555-0000,HR,HR Manager,35,2025-07-21T12:00:00Z
